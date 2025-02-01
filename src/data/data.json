@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality sound with noise cancellation feature",
+    "category": "Electronics",
+    "image": "https://picsum.photos/id/1/400/400",
+    "price": 99.99
+  },
+  {
+    "id": 2,
+    "name": "Premium Laptop",
+    "description": "13-inch laptop with 16GB RAM and 512GB SSD",
+    "category": "Electronics",
+    "image": "https://picsum.photos/id/2/400/400",
+    "price": 999.99
+  },
+  {
+    "id": 3,
+    "name": "Smartphone X",
+    "description": "6.5-inch OLED display with triple camera setup",
+    "category": "Electronics",
+    "image": "https://picsum.photos/id/3/400/400",
+    "price": 699.99
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch Pro",
+    "description": "Fitness tracking and heart rate monitoring",
+    "category": "Electronics",
+    "image": "https://picsum.photos/id/4/400/400",
+    "price": 199.99
+  },
+  {
+    "id": 5,
+    "name": "Cotton T-Shirt",
+    "description": "100% cotton crew neck t-shirt",
+    "category": "Clothing",
+    "image": "https://picsum.photos/id/5/400/400",
+    "price": 29.99
+  },
+  {
+    "id": 6,
+    "name": "Slim Fit Jeans",
+    "description": "Stretch denim jeans with modern fit",
+    "category": "Clothing",
+    "image": "https://picsum.photos/id/6/400/400",
+    "price": 49.99
+  },
+  {
+    "id": 7,
+    "name": "Summer Dress",
+    "description": "Lightweight floral print midi dress",
+    "category": "Clothing",
+    "image": "https://picsum.photos/id/7/400/400",
+    "price": 79.99
+  },
+  {
+    "id": 8,
+    "name": "Coffee Maker",
+    "description": "12-cup programmable coffee machine",
+    "category": "Home & Kitchen",
+    "image": "https://picsum.photos/id/8/400/400",
+    "price": 49.99
+  },
+  {
+    "id": 9,
+    "name": "Blender Pro",
+    "description": "High-speed blender with 1000W motor",
+    "category": "Home & Kitchen",
+    "image": "https://picsum.photos/id/9/400/400",
+    "price": 89.99
+  },
+  {
+    "id": 10,
+    "name": "Best-Selling Novel",
+    "description": "Hardcover fiction book by top author",
+    "category": "Books",
+    "image": "https://picsum.photos/id/10/400/400",
+    "price": 14.99
+  },
+  {
+    "id": 11,
+    "name": "Cookbook Collection",
+    "description": "500 recipes from around the world",
+    "category": "Books",
+    "image": "https://picsum.photos/id/11/400/400",
+    "price": 24.99
+  },
+  {
+    "id": 12,
+    "name": "Vitamin C Serum",
+    "description": "Anti-aging facial serum with hyaluronic acid",
+    "category": "Beauty",
+    "image": "https://picsum.photos/id/12/400/400",
+    "price": 39.99
+  },
+  {
+    "id": 13,
+    "name": "Yoga Mat",
+    "description": "Eco-friendly non-slip exercise mat",
+    "category": "Sports",
+    "image": "https://picsum.photos/id/13/400/400",
+    "price": 29.99
+  },
+  {
+    "id": 14,
+    "name": "Running Shoes",
+    "description": "Lightweight breathable athletic shoes",
+    "category": "Sports",
+    "image": "https://picsum.photos/id/14/400/400",
+    "price": 89.99
+  },
+  {
+    "id": 15,
+    "name": "Building Blocks Set",
+    "description": "300-piece educational construction toys",
+    "category": "Toys",
+    "image": "https://picsum.photos/id/15/400/400",
+    "price": 49.99
+  },
+  {
+    "id": 16,
+    "name": "Action Figure",
+    "description": "Collectible movie character figure",
+    "category": "Toys",
+    "image": "https://picsum.photos/id/16/400/400",
+    "price": 19.99
+  },
+  {
+    "id": 17,
+    "name": "Organic Coffee Beans",
+    "description": "Dark roast whole bean coffee 1kg",
+    "category": "Grocery",
+    "image": "https://picsum.photos/id/17/400/400",
+    "price": 12.99
+  },
+  {
+    "id": 18,
+    "name": "Extra Virgin Olive Oil",
+    "description": "Cold-pressed premium olive oil 500ml",
+    "category": "Grocery",
+    "image": "https://picsum.photos/id/18/400/400",
+    "price": 18.99
+  },
+  {
+    "id": 19,
+    "name": "4K Smart TV",
+    "description": "55-inch LED television with HDR",
+    "category": "Electronics",
+    "image": "https://picsum.photos/id/19/400/400",
+    "price": 499.99
+  },
+  {
+    "id": 20,
+    "name": "Air Fryer",
+    "description": "Digital touchscreen 5.5L capacity",
+    "category": "Home & Kitchen",
+    "image": "https://picsum.photos/id/20/400/400",
+    "price": 89.99
+  }
+]
