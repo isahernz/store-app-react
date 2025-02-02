@@ -1,24 +1,27 @@
-import { useState } from "react";
+import { IconShoppingCart } from "@tabler/icons-react";
 
 export const Navbar = () => {
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
+  interface NavLinkType {
+    name: string;
+    path: string;
+  }
 
-  const navLinks = [
+  const navLinks: NavLinkType[] = [
     {
       name: "Home",
-      href: "/",
+      path: "/",
     },
     {
       name: "About",
-      href: "/about",
+      path: "/about",
     },
     {
       name: "Products",
-      href: "/products",
+      path: "/products",
     },
     {
       name: "Contact",
-      href: "/contact",
+      path: "/contact",
     },
   ];
 
@@ -31,11 +34,11 @@ export const Navbar = () => {
           </a>
 
           <ul className="flex items-center gap-x-4">
-            {navLinks.map(({ name, href }) => (
-              <li>
+            {navLinks.map(({ name, path }) => (
+              <li key={name}>
                 <a
-                  href={href}
-                  className="text-sm text-[#373A40] font-quicksand"
+                  href={path}
+                  className="text-sm text-[#373A40] font-quicksand font-medium"
                 >
                   {name}
                 </a>
@@ -43,8 +46,13 @@ export const Navbar = () => {
             ))}
           </ul>
         </div>
-        <div className="flex items-center gap-x-4 text-sm">
-          <button>My Cart</button>
+        <div className="flex items-center gap-x-6 text-sm">
+          <a href="/" className="text-orange-600 font-medium font-quicksand">
+            Sign in
+          </a>
+          <button>
+            <IconShoppingCart stroke={1.5} />
+          </button>
         </div>
       </div>
     </nav>
